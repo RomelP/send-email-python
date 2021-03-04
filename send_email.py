@@ -8,7 +8,7 @@ import yagmail
 #---------------------------------------------
 #      Envia los correos de manera ciclica 
 #---------------------------------------------
-
+# este esun intento 
 # Cargando los datos a partir de la lista 
 hoja = pd.read_excel("Lista.xlsx", sheet_name="nombres",header= 0) 
 # Ingresando mail y passw
